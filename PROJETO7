@@ -1,0 +1,35 @@
+Passo 1: Instalação do Node.js e npm
+
+Certifique-se de ter o Node.js e npm instalados. Você pode baixá-los em https://nodejs.org.
+
+Passo 2: Instalação do Create React App
+
+Abra o terminal e execute o seguinte comando para instalar a ferramenta Create React App globalmente:
+
+bash
+Copy code
+npm install -g create-react-app
+Passo 3: Criação de um Aplicativo React
+
+Agora, você pode criar um novo aplicativo React executando o seguinte comando:
+
+bash
+Copy code
+npx create-react-app meu-aplicativo-react
+Substitua "meu-aplicativo-react" pelo nome desejado do seu aplicativo.
+
+Passo 4: Navegação para o Diretório do Aplicativo
+
+Vá para o diretório do seu aplicativo usando o comando:
+
+bash
+Copy code
+cd meu-aplicativo-react
+Passo 5: Execução do Aplicativo
+
+Execute o aplicativo com o seguinte comando:
+
+bash
+Copy code
+npm start
+Isso iniciará o servidor de desenvolvimento e abrirá automaticamente o aplicativo React em seu navegador padrão.
